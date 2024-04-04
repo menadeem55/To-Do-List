@@ -1,0 +1,30 @@
+Name : Nadeem Akhtar
+
+Email: me.nadeem55@gmail.com
+
+Task Title: Todo List Web Page Development
+
+Steps Taken:
+Created the basic structure of the web page using HTML, including header, input form, task display area, and buttons.
+Styled the web page layout and components using CSS, ensuring a clean and user-friendly interface.
+Implemented functionality to add tasks, mark tasks as completed, edit tasks, delete tasks, and search for tasks using JavaScript.
+Tested the web page on different devices and screen sizes to ensure responsiveness and functionality.
+
+Challenges Faced:
+Managing task state and updating the UI accordingly.
+Implementing the edit functionality while maintaining the responsiveness of the web page.
+Handling user input validation and error handling for empty tasks or search queries.
+
+Solutions Implemented:
+Implemented event listeners for user interactions such as clicking buttons or pressing keys to trigger appropriate actions.
+Utilized flexbox and media queries for responsive layout and styling across various screen sizes.
+Incorporated error handling functions to display messages for empty tasks or invalid input.
+
+Learnings:
+Improved skills in CSS styling and layout design, particularly for responsive web design.
+Learned how to organize and structure JavaScript code for better maintainability and scalability.
+
+Project Update:
+Successfully developed a todo list web page with add, edit, delete, search, and mark as completed functionalities.
+The web page is responsive and works well across different devices and screen sizes.
+Implemented error handling for better user experience and input validation.
